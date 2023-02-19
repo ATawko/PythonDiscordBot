@@ -1,0 +1,9 @@
+{
+    "TOKEN":"BOT_TOKEN",
+    "PREFIX":"^",
+    "APPROVED_USERS": [0],
+    "WEATHER_API_KEY": "OPEN_WEATHER_MAP_API_KEY",
+    "TRACKED_SERVERS": [0],
+    "BOT_USER": 0,
+    "BOT_OWNER": 0
+}

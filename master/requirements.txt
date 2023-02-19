@@ -1,0 +1,6 @@
+regex
+discord.py
+asyncio
+yt_dlp
+requests
+pynacl
