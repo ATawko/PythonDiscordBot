@@ -7,6 +7,7 @@ This repository is intended to serve as a reference with some example files have
 # Discord
 You will need to create a Discord Application and Bot user for this to function
 Discord's documentation is available here: https://discord.com/developers/applications
+
 This bot does not require any of the privlaged intents by default
 For message tracking you will need to enable the Message Content Intent
 
@@ -18,6 +19,7 @@ You will need to specify the Time Zone in the dockerfile
 For ease of use, I've included both the build command and a run command below:
 - docker build -t [IMAGE_NAME] .
 - docker run -d --name [CONTAINER_NAME] [IMAGE_NAME]
+
 You are required to give the image and container a unique name
 So far, I've tested the build on the following platforms:
 - ARM (RaspberryPi 4)
